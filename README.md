@@ -1,4 +1,4 @@
-💼 LinkedIn Job Postings Analytics
+                                       💼 LinkedIn Job Postings Analytics
 SQL & Python analysis of 20,500+ real-world job postings across 108 countries
    
 
